@@ -1,0 +1,22 @@
+
+PRIMER PASO:
+- Se importan a R los 5 excel que terminan como "_sinhc", hoja: Ficha
+
+SEGUNGO PASO:
+- Se corre el SCRIPT hasta "Fusión de bases de datos"
+
+TERCER PASO:
+- El excel exportado se cambia de nombre a "fusion_asma_sinhc"
+- Se importa a R el excel "fusion_asma_sinhc"
+
+CUARTO PASO:
+- Se corre el SCRIPT desde "Análisis de base fusionada" hasta el final
+- Producto de este paso se exporta el excel con el nombre "data_final"
+
+QUINTO PASO:
+- Se abre el Script titulado "Script_AZ1_fechaboni_result" y se importa a R el excel "data_final"
+
+SEXTO PASO:
+- Se corre todo el SCRIPT
+
+
